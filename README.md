@@ -11,4 +11,6 @@ Transect_GrIs_SMAP_AMSR2_MultiFreqMapPaper_230330.m generates Figure 5.
 
 Transect_GrIs_AMSR2_AC_plotX_timeseries_MultiFreqMapPaper.m is used by Transect_GrIs_SMAP_AMSR2_MultiFreqMapPaper_230330.m.
 
-greenland_snow_status_index_profile_v1.mat includes the data used to plot Figure 7 (generated with empirical_LWC_profile_map_GrIS_230323_RSE.m).
+Output:
+
+empirical_LWC_profile_map_GrIS_230323_RSE.m creates greenland_snow_status_index_profile_v1.mat which can be found at Colliander, Andreas (2023), “Greenland Snow Status Profile”, Mendeley Data, V1, doi: 10.17632/b5n4k9zkrk.1
